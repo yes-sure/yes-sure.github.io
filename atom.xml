@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-04T14:56:51.000Z</updated>
+  <updated>2017-05-09T09:39:59.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/05/02/say-yeah/"/>
     <id>http://yoursite.com/2017/05/02/say-yeah/</id>
     <published>2017-05-02T10:22:02.000Z</published>
-    <updated>2017-05-04T14:56:51.000Z</updated>
+    <updated>2017-05-09T09:39:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>今天来了一年了，overwhelmingly，原来要死要活的日子都过来了，原来的幻想都破灭了，也重塑了。现在一年的这个节点上去，前面有刚过去的第一年，后面有新的一年开始，总想在过去的一年时光里攫取到点什么，来给自己未来的一年甚至几十年包个红包而受益匪浅，这是我的习惯，满加满减的习惯。﻿<br><a id="more"></a></p>
 <p>当你仍处在故事中时，故事不能称为故事，它只是迷离的幻影、模糊的暗孔、无尽的黑暗、故事之所以称之为故事，是那一切都成为了过去，在你开始向自己或向他人讲述的这一刻成形，这一年我也想管它叫做故事。﻿</p>
@@ -39,6 +39,8 @@
       &lt;p&gt;今天来了一年了，overwhelmingly，原来要死要活的日子都过来了，原来的幻想都破灭了，也重塑了。现在一年的这个节点上去，前面有刚过去的第一年，后面有新的一年开始，总想在过去的一年时光里攫取到点什么，来给自己未来的一年甚至几十年包个红包而受益匪浅，这是我的习惯，满加满减的习惯。﻿&lt;br&gt;
     
     </summary>
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
   </entry>
